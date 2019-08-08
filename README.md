@@ -1,4 +1,2 @@
-# Started
+Started
 ---
----
-
